@@ -5,15 +5,6 @@
         <td>
             <a href="https://laravel.com"><img src="https://i.imgur.com/pBNT1yy.png" /></a>
         </td>
-        <td>
-            <a href="https://laravel-livewire.com/"><img src="https://imgtr.ee/images/2023/02/18/OzRhc.png" /></a>
-        </td>
-        <td>
-            <a href="https://getbootstrap.com/"><img src="https://imgtr.ee/images/2023/02/18/OzoXY.png" /></a>
-        </td>
-        <td>
-            <img src="https://imgtr.ee/images/2023/02/18/Oz9vq.png" />
-        </td>
     </tr>
 </table> 
 
