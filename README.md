@@ -1,4 +1,4 @@
-# Pemilihan Ketua Osis / MPK
+# Pemilihan Ketua OSIS / MPK
 
 <table>
     <tr>
