@@ -17,8 +17,6 @@ https://fitrazar.my.id/myWeb/myPage
 
 
 ## Installation
-
-#### Backend
 1. Clone the project
 2. Go to the project root directory
 3. Run `composer install` and `npm install && npm run dev`
