@@ -1,0 +1,8 @@
+composer require livewire/livewire
+composer require laravel/ui
+then
+php artisan ui bootstrap --auth
+npm install && npm run dev 2x
+
+change storage to public
+php artisan storage:link
