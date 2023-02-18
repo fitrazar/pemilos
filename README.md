@@ -1,4 +1,4 @@
-# Pemilihan Ketua Osis / MPK Full Stack Application
+# Pemilihan Ketua Osis / MPK
 
 <table>
     <tr>
