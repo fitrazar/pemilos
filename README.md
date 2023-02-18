@@ -10,7 +10,7 @@
 
 
 ## Requirements
-You need to have PHP version **7.4** or above. Node.js version **12.0** or above.
+You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
 
 ## Demo
 https://fitrazar.my.id/myWeb/myPage
